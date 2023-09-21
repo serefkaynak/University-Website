@@ -1,0 +1,32 @@
+{
+    "students": [
+      {
+        "student_id": "S001",
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "major": "Computer Science",
+        "year": "Junior",
+        "faculty_advisor": "101",
+        "enrolled_lessons": ["L101","L102"]
+      },
+      {
+        "student_id": "S002",
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "major": "Biology",
+        "year": "Sophomore",
+        "faculty_advisor": "102",
+        "enrolled_lessons": ["L102","L103"]
+      },
+      {
+        "student_id": "S003",
+        "first_name": "Charlie",
+        "last_name": "Davis",
+        "major": "Psychology",
+        "year": "Senior",
+        "faculty_advisor": "103",
+        "enrolled_lessons": ["L103"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,55 @@
+{
+    "lessons": [
+      {
+        "lesson_id": "L101-01",
+        "subject": "Introduction to Computer Science",
+        "department": "Computer Science",
+        "faculty": "101",
+        "schedule": {
+          "day": "Monday",
+          "time": "10:00 AM - 11:30 AM"
+        }
+      },
+      {
+        "lesson_id": "L101-02",
+        "subject": "Intermediate to Computer Science",
+        "department": "Computer Science",
+        "faculty": "101",
+        "schedule": {
+          "day": "Monday",
+          "time": "10:10 AM - 12:30 AM"
+        }
+      },
+      {
+        "lesson_id": "L101-03",
+        "subject": "Master to Computer Science",
+        "department": "Computer Science",
+        "faculty": "101",
+        "schedule": {
+          "day": "Monday",
+          "time": "10:00 AM - 11:30 AM"
+        }
+      },
+      {
+        "lesson_id": "L102",
+        "subject": "Biology 101",
+        "department": "Biology",
+        "faculty": "102",
+        "schedule": {
+          "day": "Wednesday",
+          "time": "9:00 AM - 10:30 AM"
+        }
+      },
+      {
+        "lesson_id": "L103",
+        "subject": "Introduction to Psychology",
+        "department": "Psychology",
+        "faculty": "103",
+        "schedule": {
+          "day": "Tuesday",
+          "time": "1:00 PM - 2:30 PM"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,32 @@
+{
+    "SchoolName" : "Workingtech University",
+    "faculty": [
+      {
+        "faculty_id": "101",
+        "first_name": "John",
+        "last_name": "Smith",
+        "department": "Computer Science",
+        "position": "Professor",
+        "email": "john.smith@example.edu",
+        "phone": "+1 (123) 456-7890"
+      },
+      {
+        "faculty_id": "102",
+        "first_name": "Jane",
+        "last_name": "Doe",
+        "department": "Biology",
+        "position": "Associate Professor",
+        "email": "jane.doe@example.edu",
+        "phone": "+1 (234) 567-8901"
+      },
+      {
+        "faculty_id": "103",
+        "first_name": "Robert",
+        "last_name": "Johnson",
+        "department": "Psychology",
+        "position": "Professor",
+        "email": "robert.johnson@example.edu",
+        "phone": "+1 (345) 678-9012"
+      }
+    ]
+  }
